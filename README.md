@@ -1,1 +1,2 @@
 # Tarea_Ajedrez
+Tarea del Ajedrez: Proyecto6 de python de Javier González. Programa que muestra un ajedrez, y permite mover las fichas y visualizar los cambios. Consta de dos módulos llamados **juego.py y launcher.py**.
